@@ -1,11 +1,11 @@
 #!/usr/bin/python
-# title			    :search_directories.py
-# description	    :Find strings within a directory recursively
-# author		    :Thomas Norberg
-# date			    :20180718
-# version		    :1.0.0
-# usage			    :python search_directories.py
-# python_version	:2.6.6
+# title             :search_directories.py
+# description       :Find strings within a directory recursively
+# author            :Thomas Norberg
+# date              :20180718
+# version           :1.0.0
+# usage             :python search_directories.py
+# python_version    :2.6.6
 # ==============================================================================
 
 from os import listdir
